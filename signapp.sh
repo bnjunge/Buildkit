@@ -1,4 +1,6 @@
-# Scriptname: App signer
+#!/bin/bash
+# Scriptname: Buildkit
+# version 0.0.1
 # Author: Ben Njunge 2020
 
 
