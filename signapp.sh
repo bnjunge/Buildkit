@@ -5,7 +5,7 @@
 #build type
 # BUILD_TYPE = ''
 PATH_APP="$PWD/platforms/android/app/build/outputs/apk/release"
-echo "WELCOME TO SURVTECH APP BUILDER V0.0.1"
+echo "WELCOME TO SURVTECH APP BUILDKIT V0.0.1"
 # This script signs android apps for you
 
 echo ''
